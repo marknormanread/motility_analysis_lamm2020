@@ -13,8 +13,7 @@ Code is made available under the GNU General Public License version 3.
 This code builds upon my prior work, in
 
 > MN Read, J Bailey, J Timmis and T Chtanova. (2016). 
-*Leukocyte motility models assessed through simulation and multi-objective optimization-based model selection.* 
+*Leukocyte motility models assessed through simulation and multi-objective optimization-based model selection.*
 **PLoS Computational Biology** 12(9):e1005082.
-
 
 If you have any questions about this code, or how to apply it to your own data, please get in contact.

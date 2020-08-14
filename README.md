@@ -5,7 +5,7 @@ Please cite this manuscript upon your own use.
 
 ```
 Noa Lamm, Mark N. Read ,Max Nobis ,David Van Ly ,Scott G. Page , V. Pragathi
-Masamsetti, Paul Timpson ,Maté Biro and Anthony J. Cesare.
+Masamsetti, Paul Timpson, Maté Biro and Anthony J. Cesare.
 ATR and mTOR regulate nuclear actin polymerization to alter nuclear architecture and promote replication stress repair.
 ```
 

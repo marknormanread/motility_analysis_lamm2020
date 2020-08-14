@@ -1,4 +1,4 @@
-# motility_analysis_lamm2020
+# Motility Analysis for Nuclear Actin paper
 
 Code contained herein was used for analyses in the following manuscript.
 Please cite this manuscript upon your own use.

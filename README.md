@@ -4,9 +4,7 @@ Code contained herein was used for analyses in the following manuscript.
 Please cite this manuscript upon your own use.
 
 ```
-Noa Lamm, Mark N. Read ,Max Nobis ,David Van Ly ,Scott G. Page , V. Pragathi
-Masamsetti, Paul Timpson, Maté Biro and Anthony J. Cesare.
-ATR and mTOR regulate nuclear actin polymerization to alter nuclear architecture and promote replication stress repair.
+Noa Lamm, Mark N. Read ,Max Nobis ,David Van Ly ,Scott G. Page , V. Pragathi Masamsetti, Paul Timpson, Maté Biro and Anthony J. Cesare. ATR and mTOR regulate nuclear actin polymerization to alter nuclear architecture and promote replication stress repair.
 ```
 
 The code describes the movement characteristics of labelled agents in a 3 dimensional space through a time-series of observations.

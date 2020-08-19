@@ -7,6 +7,7 @@ Please cite this manuscript upon your own use.
 *ATR and mTOR regulate nuclear actin polymerization to alter nuclear architecture and promote replication stress repair.*
 
 The code describes the movement characteristics of labelled agents in a 3 dimensional space through a time-series of observations.
+Specifically, the mean squared displacement (MSD) sliding window analysis was conducted through this code. 
 
 Code is made available under the GNU General Public License version 3.
 
@@ -17,3 +18,5 @@ This code builds upon my prior work, in
 **PLoS Computational Biology** 12(9):e1005082.
 
 If you have any questions about this code, or how to apply it to your own data, please get in contact.
+
+Other code related to this publication, written by Maté Biro, is available at http://www.matebiro.com/software/nuclearactin
